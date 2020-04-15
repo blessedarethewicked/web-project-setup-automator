@@ -1,0 +1,26 @@
+to do 
+
+i need it to automatically open a cmd 
+
+i need to them to be input form the command line
+
+i then need to cd out from there
+
+i then need to make a new folder 
+
+i then need to move into the folder
+
+i then need to make a a new app.py file
+
+i also need to pip install virtual env 
+
+i then need to start the env
+
+i then need to follow the steps in the readme.txt in the sudoku folder
+
+i also need to make a template which we can copy and paste
+
+
+i can then also run a finishing code which automates the compiling and uploading
+of the code
+
